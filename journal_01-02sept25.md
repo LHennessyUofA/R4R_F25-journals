@@ -8,7 +8,9 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Monday 8th, 11pm**
 
 ### Rose
-I'm interested in using code to make my font a fun color.
+$$
+\color{purple}{\text{Is my font purple now?.}}
+$$
 
 ### Thorn
 
@@ -31,3 +33,4 @@ I'm interested in using code to make my font a fun color.
 > [!IMPORTANT]
 
 > **No Cohort discussion due this week**
+
