@@ -8,7 +8,9 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Monday 8th, 11pm**
 
 ### Rose
-
+$$
+\color{purple}{\text{Is my font purple now?.}}
+$$
 
 ### Thorn
 
@@ -29,4 +31,6 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **No Cohort discussion due this week**
+
