@@ -16,6 +16,14 @@ The organization of data and the searchability are most meaningful to my researc
 
 ## Research Application
 
+I have been thinking quite about about the research application for the humanities because it's a bit of a different game. I spoke to my qualitative research professor about data storgae and maintenence, the one who uses One Drive. She said that she is required to keep data for 5 years and the primary reason why was so that there was raw data to reference if a study participant took issue with how they were presented in the study. 
+
+One reason for this difference in the importance of preserving raw data is that qualitative case studies are not meant to be repeated exactly. Not only is it less useful to the field as a whole, but it's relatively impossible. 
+
+This relates back to the difference between positivism and constructivism. When you're dealing with people, you're dealing with reality that is percieved, meaning that is made relationally, and understanding that is constantly changing.
+
+HOWEVER, while I am less likely to be keeping data the same way as hard scientists, I will need to organize it, and I appreciate ideas shared about labels, folders, and general good housekeeping with data.
+
 > [!IMPORTANT]
 > **Due Monday 15th, 11pm**
 
@@ -24,6 +32,9 @@ The organization of data and the searchability are most meaningful to my researc
 
 ## Cohort meetup discussion
 
+I had github tutoring for special students and then my cello studio class. I will be hosting the next meetup and will have much more to say.
+
 > [!IMPORTANT]
 
 > **Due Thursday 18th, 11am**
+
