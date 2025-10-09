@@ -24,6 +24,9 @@ The recommended resource notebooklm is something that I look forward to applying
 > [!IMPORTANT]
 > **Due Monday 8th, 11pm**
 
+Our research can improve the open-access approach by learning how to make the methodologies more transparent, and our research more caring for the communities that are impacted by it.
+
+Improving the way of the version control system, but also starting to get more organized with the analysis and procedures used, so that other researchers can replicate the experiments we do on their own.
 
 ---
 

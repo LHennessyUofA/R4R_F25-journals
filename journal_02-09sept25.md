@@ -24,6 +24,8 @@ The organization of data and the searchability are most meaningful to my researc
 
 > [!IMPORTANT]
 > **Due Monday 15th, 11pm**
+>
+I need to create a Data Management Plan for my research to help us determine how we will provide open access to our data even after the project ends.
 
 
 ---
