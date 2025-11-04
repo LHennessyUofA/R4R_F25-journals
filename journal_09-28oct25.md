@@ -23,7 +23,7 @@ I can absolutely see the potential in cyverse. I would love to see a version tha
 > [!IMPORTANT]
 > **Due Monday 27th, 11pm**
 
-
+It's possible that in the future as platforms like this expand and become more inclusive to different types of research I will find myself using it for many of the same reasons that I learned about this week.
 ---
 
 ## Cohort meetup discussion
@@ -31,3 +31,4 @@ I can absolutely see the potential in cyverse. I would love to see a version tha
 > [!IMPORTANT]
 
 > **Due Thursday 6th, 11am**
+
